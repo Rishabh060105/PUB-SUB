@@ -141,3 +141,4 @@ if __name__ == "__main__":
     app = KafkaPubSubGUI(root, broker_ip)
     root.mainloop()
 
+
